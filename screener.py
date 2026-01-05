@@ -14,11 +14,11 @@ def extract_text_docx(path):
 
 
 resume_text = extract_text_docx(
-    "/Users/matteonegri/Desktop/pdf/Resumes/Achyuth Resume_8.docx"
+    "pdf/Resumes/Achyuth Resume_8.docx"
 )
 
 job_text = extract_text_docx(
-    "/Users/matteonegri/Desktop/pdf/Resumes/Ashwini J2EE Developer.docx"
+    "pdf/Resumes/Ashwini J2EE Developer.docx"
 )
 
 
