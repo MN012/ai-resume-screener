@@ -23,4 +23,4 @@ A CLI-based AI resume screening tool that compares a resume against a job descri
 ## How to run
 ```bash
 pip install -r requirements.txt
-python madness.py
+python screener.py
